@@ -9,7 +9,7 @@ h1{
 
 .holder1{
 	width: 100%;
-	height: auto;
+	height: 150px;
 	border: 1px solid black;
 	position: relative;
 	margin-right: 20px;
