@@ -71,7 +71,7 @@ p {
     }
     .col-mg-12{
         width: 93%;
-        height: 150px;
+       
 
     }
     
